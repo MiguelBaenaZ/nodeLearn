@@ -1,0 +1,19 @@
+{
+  "name": "nodejslearn",
+  "version": "0.0.1",
+  "description": "learn",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejslearning"
+  ],
+  "author": "miguel baena",
+  "license": "ISC"
+}
